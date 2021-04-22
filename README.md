@@ -33,7 +33,7 @@ h3 {
     <div id="content">
         <h1>Andrew Fletcher</h1>
         <h2>Freshman in Greenville, South Carolina</h2>
-        
+
          <p>Hello, my name is Andrew Fletcher. I am a freshman at Bob Jones University and I am studying Communications and Ministry/Leadership. </p>
          <p>
             I enjoy participating in community outreach events, and I am active in my local church: Southside Baptist Church of Gaffney, SC.  I teach Sunday School for the College &amp; Career group and I run the Sound / Video Projection System during services.  I also drive the church bus for weekend activities.
@@ -41,11 +41,11 @@ h3 {
          <p>
             I also enjoy running / hiking as well as a good book
          </p>
-        
+
         <h3>EDUCATION</h3>
         Computer Science<br>
         Bob Jones University
     </div>
-           
+
 </body>
 </html>
